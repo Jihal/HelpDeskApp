@@ -11,7 +11,7 @@ Developed a web based help desk chat application, with chat rooms, auto customer
 
 1) This application needs to have node installed (by default it is installed in kali), Node JS status can be check by running by "node -v". 
 
-2) Clone the repository to a folder by running the cmd "git clone https://github.com/Harsh-B-Patel/HelpDeskApp -b main".
+2) Clone the repository to a folder by running the cmd "git clone https://github.com/Jihal/HelpDeskApp -b main".
 
 3) Run "npm install" in the directory with package.json, this will install all the dependencies and setup the application. 
 
